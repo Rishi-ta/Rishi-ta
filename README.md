@@ -1,9 +1,19 @@
-# Hi, I'm Rishita Jha✨
-**A passionate Computer Science Engineer || AIML Engineer**
+# Hi there, I'm Rishita Jha 👋✨
 
-- 🌱 **I’m currently learning:** Machine Learning
-- 📫 **How to reach me:** jharishita23@gmail.com
-- 🎶 **Pronouns:** Rishita
+🎓 B.Tech Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Software Development
+
+💻 Building projects with Python, C++, FastAPI, PostgreSQL, Docker, and Vector Databases
+
+🚀 Currently working on AI-powered applications and exploring RAG, LLMs, and Machine Learning
+
+🌱 Currently learning Machine Learning and Deep Learning
+
+📫 Reach me at: [jharishita23@gmail.com](mailto:jharishita23@gmail.com)
+
+⚡ Fun fact: I love turning ideas into real-world applications through code.
+
 
 
 ## 🌐 Socials:
